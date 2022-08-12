@@ -32,7 +32,7 @@ We have drawn many interesting inference from the dataset 'Mall customer data'. 
     ii. Annual income is indpendent of Gender.
     
     iii. Age and spending score are dependent.
-4. Cluster Insights
+4. Cluster Insights,
 
     All the clusters have almost identical annual income distributions.
     
@@ -47,3 +47,6 @@ We have drawn many interesting inference from the dataset 'Mall customer data'. 
         4. High age Males with low spending score.
         
 5. Clusters generated using hierarchical clustering are similar to those generated using KMeans clustering.
+
+# Scope of Study
+The analysis on customer segmentation helps to the company to focus on the most Profitable customers group with the help of cluster insights. and also help to improve customer services.
