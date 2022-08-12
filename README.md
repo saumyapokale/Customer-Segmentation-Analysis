@@ -5,15 +5,15 @@ To analyse 'Mall customer Data' to achieve customer segmentation using unsupervi
 # Objectives
 Study the assosiation between different variable in data by using Testing of Hypothesis. Find out the number of clusters and also Find the cluster insights. 
 # Methodology
-Data collection: I have collected the 'Mall customer Data' from Kaggle.
+Data collection: Data is collected from www.kaggle.com.
 
 Data Cleaning: In this step, prepare the data for further analysis by removing null values, transforming and standardizing our data.
 
-Exploratory Data Analyis: After cleaning process we study the descriptive statistics, visualize data based on how they are related to each other.
+Exploratory Data Analyis: After cleaning process, study the descriptive statistics, visualize data based on correlation between different Variable in dataset.
 
 Data Preprocessing: In this step, Feature selection, label encoding and feature scaling process is done.
 
-Model Development: In this vary stage we undergo the use of machine learning algorithm to model.
+Model Development: In this stage, Data undergo the use of machine learning algorithm to build the model.
 # Tools and Technology Used:
 Python and tableau
 
@@ -33,15 +33,17 @@ We have drawn many interesting inference from the dataset 'Mall customer data'. 
     
     iii. Age and spending score are dependent.
 4. Cluster Insights
-   All the clusters have almost identical annual income distributions.
-   So, the customer clusters based on gender, age, and spending score.
+
+    All the clusters have almost identical annual income distributions.
     
-        1. Low age females with high spending score
+    So, the customer clusters based on gender, age, and spending score.
+   
+        1. Low age Females with high spending score.
         
-        2. Low age males with high spending score
+        2. Low age Males with high spending score.
         
-        3. High age females with low spending score
+        3. High age Females with low spending score.
         
-        4. High age males with low spending score
+        4. High age Males with low spending score.
         
 5. Clusters generated using hierarchical clustering are similar to those generated using KMeans clustering.
