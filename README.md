@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis
+# Customer Segmentation Analysis
 
 # Aim
 To analyse 'Mall customer Data' to achieve customer segmentation using unsupervised machine learning technique mainly K-Means clustering and Hierarchical clustering algorithm so that the understand marketing strategy works in real world.
